@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>Photo Gallery HTML Template</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Photo Gallery HTML Template">
+	<meta name="keywords" content="endGam,gGaming, magazine, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->
+	<link href="img/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet">
+
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
+	<link rel="stylesheet" href="css/animate.css"/>
+
+	<!-- Main Stylesheets -->
+	<link rel="stylesheet" href="css/style.css"/>
+
+
+	<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+	<!-- Top right elements -->
+	<div class="spacial-controls">
+		<!--<div class="search-switch"><img src="img/search-icon.png" alt=""></div>-->
+		<div class="nav-switch-warp">
+			<div class="nav-switch">
+				<div class="ns-bar"></div>
+			</div>
+		</div>
+	</div>
+	<!-- Top right elements end -->
+
+	<div class="main-warp">
+		<!-- header section -->
+		<header class="header-section">
+			<div class="header-close">
+				<i class="fa fa-times"></i>
+			</div>
+			<div class="header-warp">
+				<a href="" class="site-logo">
+					<img src="./img/logo.png" alt="">
+				</a>
+				<img src="img/menu-icon.png" alt="" class="menu-icon">
+				<ul class="main-menu">
+					<li><a href="./home.html">About us</a></li>
+					
+					<li><a href="./gallery-single.html">Project</a></li>
+					<li class="active"><a href="./gallery.html">Gallery</a></li>
+					<li><a href="./contact.html">Contact</a></li>
+				</ul>
+				<div class="social-links-warp">
+					<div class="social-links">
+						<a href=""><i class="fa fa-behance"></i></a>
+						<a href=""><i class="fa fa-dribbble"></i></a>
+						<a href=""><i class="fa fa-twitter"></i></a>
+						<a href=""><i class="fa fa-facebook"></i></a>
+						<a href=""><i class="fa fa-pinterest"></i></a>
+					</div>
+					<div class="social-text">Find us on</div>
+				</div>
+			</div>
+			<div class="copyright">Colorlib 2018  @ All rights reserved</div>
+		</header>
+		<!-- header section end -->
+
+		<!-- Page section -->
+		<div class="page-section gallery-page">
+			<ul class="portfolio-filter">
+				<li class="filter all active" data-filter="*">All</li>
+				<li class="filter" data-filter=".concept">Concept art</li>
+				<li class="filter" data-filter=".char">Characters</li>
+				<li class="filter" data-filter=".bg">Backgrounds</li>
+				<!--<li class="filter" data-filter=".animals">Animals</li>-->
+			</ul>
+			<div class="portfolio-gallery">
+				<div class="gallery-item concept">
+					<img src="img/gallery/1.jpg" alt="">
+					<a data-fancybox="gallery" href="img/gallery/1.jpg"><div class="hover-links">
+						<img src="img/search-icon.png" class="site-btn sb-light">
+					</div></a>
+				</div>
+				<div class="gallery-item concept">
+					<img src="img/gallery/2.jpg" alt="">
+					<div class="hover-links">
+						<a data-fancybox="gallery" href="img/gallery/2.jpg" class="site-btn sb-light">Next</a>
+					</div>
+				</div>
+				<div class="gallery-item char">
+					<img src="img/gallery/3.jpg" alt="">
+					<div class="hover-links">
+						<a data-fancybox="gallery" href="img/gallery/3.jpg" class="site-btn sb-light">Next</a>
+					</div>
+				</div>
+				<div class="gallery-item char">
+					<img src="img/gallery/5.jpg" alt="">
+					<div class="hover-links">
+						<a data-fancybox="gallery" href="img/gallery/5.jpg" class="site-btn sb-light">Next</a>
+					</div>
+				</div>
+				<div class="gallery-item bg">
+					<img src="img/gallery/6.jpg" alt="">
+					<div class="hover-links">
+						<a data-fancybox="gallery" href="img/gallery/6.jpg" class="site-btn sb-light">Next</a>
+					</div>
+				</div>
+				<div class="gallery-item bg">
+					<img src="img/gallery/4.jpg" alt="">
+					<div class="hover-links">
+						<a data-fancybox="gallery" href="img/gallery/4.jpg" class="site-btn sb-light">Next</a>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<!-- Page section end-->
+	</div>
+
+	<!-- Search model -->
+	<div class="search-model">
+		<div class="h-100 d-flex align-items-center justify-content-center">
+			<div class="search-close-switch">x</div>
+			<form class="search-moderl-form">
+				<input type="text" id="search-input" placeholder="Search here.....">
+			</form>
+		</div>
+	</div>
+	<!-- Search model end -->
+
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.nicescroll.min.js"></script>
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/imagesloaded.pkgd.min.js"></script>
+	<script src="js/circle-progress.min.js"></script>
+	<script src="js/main.js"></script>
+
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+
+	</body>
+</html>
