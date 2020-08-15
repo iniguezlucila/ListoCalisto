@@ -26,6 +26,10 @@
 	display: none;
 }
 
+.fancybox-button--thumbs{
+	display: none;
+}
+
 
 .fancybox-button{
 	background: none;
@@ -39,6 +43,9 @@
 .gallery-item img.site-btn{
 	min-width: 50px;
 }
+
+
+
 
 img.site-btn.sb-light{
 	background-image:none;
