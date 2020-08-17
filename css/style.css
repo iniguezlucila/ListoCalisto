@@ -522,6 +522,13 @@ ol {
 	transform-origin: top left;
 }
 
+.social-links-contact a {
+	font-size: 20px;
+	color: #c6d7d8;
+	padding-bottom: 29px;
+	margin-right: 20px;
+}
+
 .social-text {
 	font-size: 14px;
 	font-weight: 700;
