@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"po",
+				"powerUpActive"
+			],
+			[
+				"powe",
+				"powerUp"
+			],
+			[
+				"ni",
+				"nivel1"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"ele",
+				"elemento2"
+			],
+			[
+				"element",
+				"elemento1"
+			],
+			[
+				"mons",
+				"monsters"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"pla",
+				"playGame"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"o",
+				"otroX"
+			],
+			[
+				"mon",
+				"monsterY"
+			],
+			[
+				"otro",
+				"otroY"
+			],
+			[
+				"mo",
+				"monsterY"
+			],
+			[
+				"of",
+				"offsetLeft"
+			],
+			[
+				"LE",
+				"left"
+			],
+			[
+				"S",
+				"style"
+			],
+			[
+				"ner",
+				"newMonster"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"cre",
+				"createMonster"
+			],
+			[
+				"ad",
+				"appendChild"
+			],
+			[
+				"a",
+				"main-play-area"
+			],
+			[
+				"crea",
+				"createMonster"
+			],
+			[
+				"cra",
+				"createLaserElement"
+			],
+			[
+				"let",
+				"letShipFly"
+			],
+			[
+				"move",
+				"moveUp"
+			],
+			[
+				"top",
+				"topPosition"
+			],
+			[
+				"le",
+				"letShipFly"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"bo",
+				"boton1"
+			],
+			[
+				"pa",
+				"parrafosSeleccionados"
+			],
+			[
+				"ho",
+				"horasRestantes"
+			],
+			[
+				"litr",
+				"litrosPorKilometro"
+			],
+			[
+				"h",
+				"horasRestantes"
+			],
+			[
+				"li",
+				"litrosPorKilometro"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"Numero",
+				"Numero2"
+			],
+			[
+				"prec",
+				"precio1"
+			],
+			[
+				"ali",
+				"alimento1"
+			],
+			[
+				"pre",
+				"precio2"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"vimeo",
+				"vimeo1"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pag",
+				"pag3"
+			],
+			[
+				"v",
+				"videogira3"
+			],
+			[
+				"vide",
+				"videogira1"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"sig",
+				"siguiente"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"mouseo",
+				"mouseover"
+			],
+			[
+				"corre",
+				"correcta"
+			],
+			[
+				"incorre",
+				"incorrecto"
+			],
+			[
+				"correc",
+				"correcto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"it",
+				"it1"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"obje",
+				"objetivos"
+			],
+			[
+				"eje",
+				"ejercicios1"
+			],
+			[
+				"gir",
+				"gira1"
+			],
+			[
+				"pin",
+				"pinta"
+			],
+			[
+				"pi",
+				"pinta1"
+			],
+			[
+				"br",
+				"brazo"
+			],
+			[
+				"bra",
+				"brazo1"
+			],
+			[
+				"fin",
+				"finintro1"
+			],
+			[
+				"tipos",
+				"tipos1"
+			],
+			[
+				"vida",
+				"vidacotidiana1"
+			],
+			[
+				"ro",
+				"robotica"
+			],
+			[
+				"robot",
+				"robotica1"
+			],
+			[
+				"ob",
+				"objetivos1"
+			],
+			[
+				"Pag",
+				"pag1"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"der",
+				"deron"
+			],
+			[
+				"izq",
+				"izqoff"
+			],
+			[
+				"sty",
+				"list-style-type"
+			],
+			[
+				"st",
+				"list-style-position"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"IM",
+				"img	Tag"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"MARG",
+				"margin-top"
+			],
+			[
+				"rev",
+				"rev3"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"H2",
+				"h2	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"sl",
+				"slideDown"
+			],
+			[
+				"Font",
+				"font-family"
+			],
+			[
+				"DIV",
+				"div	Tag"
+			],
+			[
+				"BR",
+				"br	Tag"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"footer",
+				"footer2"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bak",
+				"background-repeat"
+			],
+			[
+				"hea",
+				"head	Tag"
+			],
+			[
+				"SCRIPT",
+				"script	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"magin",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"Fon",
+				"font-family"
+			],
+			[
+				"heig",
+				"line-height"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"M",
+				"margin-left"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"backgroung",
+				"background-image"
+			],
+			[
+				"p",
+				"padding"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Web/projects.html",
+			"settings":
+			{
+				"buffer_size": 7612,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/Gallery.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/Contact.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/ListoCalisto.sublime-project",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/Index.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/project-Apocalisto.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/project-Disappear.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/project-Lazaro.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/projects.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/contact.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/home.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/about.html",
+		"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web/gallery.html",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/1_space - enemigos/style.css",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/1_space - enemigos/index.js",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/1_space - enemigos/index.html",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/2_Break/style.css",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/2_Break/index.js",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/2_Break/index.html",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/1_space/style.css",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/1_space/index.js",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/SEMINARIO 3/1_space/index.html",
+		"/as.html",
+		"/Library/Application Support/Adobe/Adobe After Effects CC 2018/AMT/application.xml",
+		"/Users/lucilaayeleniniguez/Downloads/taller robotica - vimeo/seccion/brazo.html",
+		"/Users/lucilaayeleniniguez/Dropbox/Vica avances/5_Para Luli/SWZ/config.json",
+		"/Users/lucilaayeleniniguez/Downloads/WAPALA web/css/estilos.css",
+		"/Users/lucilaayeleniniguez/Downloads/tutos robotica (ULTIMA VERSION)/Telefónica/css/pinta.css",
+		"/Users/lucilaayeleniniguez/Downloads/tutos robotica (ULTIMA VERSION)/Telefónica/css/gira.css",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/USAL HORROR/Temp/StagingArea/AndroidManifest-main.xml",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/USAL HORROR/Assets/Plugins/Android/AndroidManifest.xml",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/USAL HORROR/Temp/StagingArea/android-libraries/gvr-keyboard/AndroidManifest.xml",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/USAL HORROR/Temp/StagingArea/android-libraries/gvr-keyboardsupport-release/AndroidManifest.xml",
+		"/Users/lucilaayeleniniguez/Documents/VIDEOJUEGOS/USAL HORROR/Temp/StagingArea/android-libraries/gvr-permissionsupport-release/AndroidManifest.xml",
+		"/Volumes/KINGSTON/tutos robotica/css/pinta.css",
+		"/Volumes/KINGSTON/tutos robotica/seccion/ejercicios.html",
+		"/Volumes/KINGSTON/tutos robotica/seccion/pinta.html",
+		"/Volumes/KINGSTON/tutos robotica/seccion/brazo.html",
+		"/Volumes/KINGSTON/tutos robotica/css/ej.css",
+		"/Volumes/KINGSTON/tutos robotica/css/gira.css",
+		"/Volumes/KINGSTON/tutos robotica/css/brazo.css",
+		"/Volumes/KINGSTON/tutos robotica/css/footer.css",
+		"/Volumes/KINGSTON/tp1 multimedial - copia/intro.html",
+		"/Volumes/KINGSTON/tp1 multimedial/seccion/seccion.html",
+		"/Users/lucilaayeleniniguez/Downloads/timer_escena.js",
+		"/Users/lucilaayeleniniguez/Desktop/TECNOLOGÍA/Secciones/about.html",
+		"/Users/lucilaayeleniniguez/Desktop/xw web/css/home.css",
+		"/Users/lucilaayeleniniguez/Desktop/xw web/css/header.css",
+		"/Users/lucilaayeleniniguez/Desktop/TPIV - TALLER/home.html",
+		"/Users/lucilaayeleniniguez/Documents/tp8/web/inicio.html",
+		"/Users/lucilaayeleniniguez/Desktop/TPIII TADD - Iñiguez/web/Ni en sueños.html",
+		"/Users/lucilaayeleniniguez/Desktop/web sanwiches/helados.html",
+		"/Users/lucilaayeleniniguez/Desktop/ML.HTML",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/seccion/Review.html",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/seccion/Nota.html",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/seccion/features.html",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/seccion/busqueda",
+		"/Users/lucilaayeleniniguez/Desktop/TPIII TADD - Iñiguez/web/secciones/papas.html",
+		"/Users/lucilaayeleniniguez/Desktop/TPIII TADD - Iñiguez/web/secciones/pizas.html",
+		"/Users/lucilaayeleniniguez/Desktop/TPIII TADD - Iñiguez/web/secciones/helados.html",
+		"/Users/lucilaayeleniniguez/Desktop/TPIII TADD - Iñiguez/web/css/helados.css",
+		"/Users/lucilaayeleniniguez/Desktop/TPIII TADD - Iñiguez/web/css/papas.css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/features.css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/features (tablet).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/features (mobile).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/review (tablet).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/footer (mobile).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/home.html",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/review (mobile).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/home.css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/nota (mobile).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/home (tablet).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/home (mobile).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/nota.css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/nota (tablet).css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/footer.css",
+		"/Users/lucilaayeleniniguez/Dropbox/Nerdas/TPIV - TALLER/css/footer (tablet).css",
+		"/Users/lucilaayeleniniguez/Desktop/tp1 multimedial/seccion/seccion.html",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/nota (mobile).css",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/nota.css",
+		"/Volumes/KINGSTON/TPIV - TALLER/seccion/Nota.html",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/footer (mobile).css",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/footer.css",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/home.css",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/home (mobile).css",
+		"/Volumes/KINGSTON/TPIV - TALLER/home.html",
+		"/Volumes/KINGSTON/TPIV - TALLER/css/header.css",
+		"/Volumes/NO NAME 1/tp1 multimedial/css/seccion.css",
+		"/Volumes/NO NAME 1/tp1 multimedial/seccion/seccion.html",
+		"/Users/lucilaayeleniniguez/Desktop/tp1 multimedial/js/zoomgallery.js",
+		"/Users/lucilaayeleniniguez/Desktop/tp1 multimedial/css/zoomgallery.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/video.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/pizas.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/papas.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/home.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/helados.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/header.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/formulario.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/css/footer.css",
+		"/Volumes/KINGSTON 1/lucila/TPIII TADD - Iñiguez/web/secciones/helados.html",
+		"/Volumes/KINGSTON/lucila/TALLER/Ni en sueños.html",
+		"/Volumes/KINGSTON/lucila/TALLER/css/home.css",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/video.huevo.html",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/video.papas.html",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/papas.html",
+		"/Volumes/KINGSTON/lucila/TALLER/video.html",
+		"/Volumes/KINGSTON/lucila/TALLER/css/video.css",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/helados.html",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/video.dl.html",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/video.frutilla.html",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/video.vainilla.html",
+		"/Volumes/KINGSTON/lucila/TALLER/css/pizas.css",
+		"/Volumes/KINGSTON/lucila/TALLER/css/papas.css",
+		"/Volumes/KINGSTON/lucila/TALLER/css/helados.css",
+		"/Volumes/KINGSTON/lucila/TALLER/css/header.css",
+		"/Volumes/KINGSTON/lucila/TALLER/css/footer.css",
+		"/Volumes/KINGSTON/lucila/TALLER/secciones/pizas.html",
+		"/Users/lucilaayeleniniguez/Documents/Ni en sueños.html",
+		"/Users/lucilaayeleniniguez/Desktop/pizas.html",
+		"/Users/lucilaayeleniniguez/Desktop/helados.html",
+		"/Users/lucilaayeleniniguez/Desktop/papas.html",
+		"/Users/lucilaayeleniniguez/Desktop/piza.negro.html",
+		"/Users/lucilaayeleniniguez/Desktop/pizas.blanco.html",
+		"/Users/lucilaayeleniniguez/Desktop/papas.negro.html",
+		"/Users/lucilaayeleniniguez/Desktop/papas.blanco.html",
+		"/Users/lucilaayeleniniguez/Downloads/FINAL TECNOLOGIA/imagenesfinal/papas.html",
+		"/Users/lucilaayeleniniguez/Downloads/FINAL TECNOLOGIA/imagenesfinal/home.html",
+		"/Users/lucilaayeleniniguez/Downloads/FINAL TECNOLOGIA/imagenesfinal/zootycoon.html",
+		"/Users/lucilaayeleniniguez/Desktop/TECNOLOGÍA/Archivos CSS/media.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/lucilaayeleniniguez/Documents/LISTO CALISTO/Web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".html",
+			"fa",
+			"gallery",
+			"href=\"\"",
+			"owl-carousel",
+			"butt",
+			"owl-nav",
+			"	newMonster.classList.add(\"monster\")\n",
+			"rect2",
+			"rect1",
+			"installedla",
+			"languajes",
+			"pun",
+			"pinta1",
+			"rep",
+			");\n",
+			"secciones",
+			"vidacotidiana",
+			"gira",
+			"pinta",
+			"}\n",
+			"if",
+			"video1",
+			"\",",
+			"\");\n",
+			"pag3",
+			"25",
+			"15",
+			"footer",
+			"p{",
+			"p ",
+			"p",
+			"90deg",
+			"100",
+			"		\n",
+			"></",
+			"					<li><a href=\"bla.com\"><img src=\"icono1.png\"></a></li>\n",
+			";\n",
+			"<li>WORKS</li>",
+			"1300px",
+			"\n			",
+			">\n",
+			"		<h2>Postres</h2>\n",
+			"Postres"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Web/projects.html",
+					"settings":
+					{
+						"buffer_size": 7612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6573,
+								6573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1511.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
