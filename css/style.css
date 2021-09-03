@@ -13,6 +13,13 @@
 /*----------------------------------------*/
 
 
+#logoProject{
+	position: absolute;
+	top: 25px;
+	right: 25px;
+	
+}
+
 .fancybox-bg{
 	background-color: white;
 }
