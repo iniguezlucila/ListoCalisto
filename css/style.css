@@ -872,6 +872,24 @@ ol {
 	padding-right: 130px;
 }
 
+.portfolio-filter2 {
+	list-style: none;
+	padding: 28px 0;
+	padding-left: 63px;
+	padding-right: 130px;
+}
+
+.portfolio-filter2 li {
+	display: inline-block;
+	font-size: 11px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #898d90;
+	margin-right: 65px;
+	cursor: pointer;
+	padding: 10px 0;
+}
+
 .portfolio-filter li {
 	display: inline-block;
 	font-size: 11px;
@@ -881,6 +899,14 @@ ol {
 	margin-right: 65px;
 	cursor: pointer;
 	padding: 10px 0;
+}
+
+.portfolio-filter2 li:last-child {
+	margin-right: 0;
+}
+
+.portfolio-filter2 li.active {
+	color: #323232;
 }
 
 .portfolio-filter li:last-child {
@@ -1496,6 +1522,13 @@ ol {
 	.portfolio-filter li {
 		margin-right: 30px;
 	}
+
+	.portfolio-filter2 {
+		padding-right: 215px;
+	}
+	.portfolio-filter2 li {
+		margin-right: 30px;
+	}
 	.gallery-item {
 		width: 50%;
 	}
@@ -1609,6 +1642,13 @@ ol {
 	.portfolio-filter li {
 		margin-right: 30px;
 	}
+
+	.portfolio-filter2 {
+		padding-right: 160px;
+	}
+	.portfolio-filter2 li {
+		margin-right: 30px;
+	}
 	.gallery-item {
 		width: 50%;
 	}
@@ -1661,6 +1701,10 @@ ol {
 	.portfolio-filter {
 		padding: 80px 30px 20px;
 	}
+
+	/*.portfolio-filter2 {
+		padding: 80px 30px 20px;
+	}*/
 	.gallery-item {
 		width: 100%;
 	}
