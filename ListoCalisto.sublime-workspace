@@ -520,11 +520,14 @@
 	"buffers":
 	[
 		{
+			"contents": "",
 			"file": "Web/projects.html",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 7612,
-				"line_ending": "Windows"
+				"buffer_size": 0,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -767,15 +770,15 @@
 					"file": "Web/projects.html",
 					"settings":
 					{
-						"buffer_size": 7612,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6573,
-								6573
+								0,
+								0
 							]
 						],
 						"settings":
